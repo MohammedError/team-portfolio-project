@@ -56,9 +56,34 @@ Which aspects of this project are you most interested in?
 - build a good team that will output 120% team potential
 
 
-5. Project Goals
+4. Project Goals
 What do you aim to learn or achieve by the end of this project?
 
 - Producing a complete project based on best practices
 
 -------------------------------------------------------------------------------------------------------
+
+Team Member Profile Template
+Name: Mohammed Al-Dosari
+
+1. Strengths
+- Linux OS & Bash Scripting.
+- Git management (Branching, Conflict Resolution, Repo Standards).
+- System Architecture & Logic debugging.
+- CI/QA & Automated testing.
+- Tech adaptability (Ready for Node.js/Express).
+
+2. Technical Background
+- C Programming & Systems Development (Built UNIX shell).
+- Low-level memory debugging.
+- Native Linux environment usage.
+
+3. Interests
+- Primary: The "Checker" Engine (Docker, containerized code execution).
+- Secondary: Backend (Node.js/Express API-to-Container bridging).
+- QA & DevOps: Automated tests and PR code reviews.
+
+4. Project Goals
+- Master Docker orchestration and isolated environments.
+- Build a functional Node.js backend.
+- Design a CI/QA pipeline for the project.
