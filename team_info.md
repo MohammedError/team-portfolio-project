@@ -87,3 +87,32 @@ Name: Mohammed Al-Dosari
 - Master Docker orchestration and isolated environments.
 - Build a functional Node.js backend.
 - Design a CI/QA pipeline for the project.
+
+-------------------------------------------------------------------------------------------------------
+
+Name: Badr Al-Shaya
+
+1. Strengths
+- Systems Design & Software developer
+- Infrastructure & Cloud Administration
+- Product managment & UX Design
+- Business Development & Market Fit
+
+2. Technical Background
+- Web Platform Engineering (Launched and managed platform for interactive games).
+- AI-3rd party (Created an agents and ai chatbots using apis).
+- Infrastructure & Server Management (Experienced with LXC and VM in Proxmox os).
+- Cloud & Network Administration (Managing storage Bucket using Cloudflare).
+- Desktop App Development (Built exe apps for various tasks using python).
+
+3. Interests
+- Cloud Administration: managing and optimizing cloud servers.
+- AI Features Integration: add AI-driven tools and features to make the platform smarter for users.
+- Product & Feature Management: designing new features and managing the development process.
+- UX Architecture: building a clean, modern design system.
+- Early-Stage Marketing: interested attract our first users and grow the platform’s community in the brgin.
+
+4. Project Goals
+- help the platform reach its first set of active users and learn how to grow a community from scratch.
+- deliver a professional-grade UX that makes the platform feel polished and modern.
+- want to improve our team's development workflow
