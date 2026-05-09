@@ -116,40 +116,27 @@ Name: Badr Al-Shaya
 - help the platform reach its first set of active users and learn how to grow a community from scratch.
 - deliver a professional-grade UX that makes the platform feel polished and modern.
 - want to improve our team's development workflow
+  
 Name: Mohammed Aloufi
 
 1. Strengths
-
-Cybersecurity & Security Research.
-
-Web Development (HTML5, CSS3, JavaScript/ES6).
-
-Technical Leadership & Organization.
-
-Creative UI/UX Design (Interactive and modern aesthetics).
+- Cybersecurity & Security Research.
+- Web Development (HTML5, CSS3, JavaScript/ES6).
+- Technical Leadership & Organization.
+- Creative UI/UX Design (Interactive and modern aesthetics).
 
 2. Technical Background
-
-Academic background in Computer Engineering Technology & IT (Cybersecurity).
-
-Developing security tools, scripts, and personal digital hubs.
-
-Backend development experience (Holberton School curriculum, ES6 basics).
-
-Leader & Technical Official of the Cybersecurity Club at Tuwaiq Academy.
+- Academic background in Computer Engineering Technology & IT (Cybersecurity).
+- Developing security tools, scripts, and personal digital hubs.
+- Backend development experience (Holberton School curriculum, ES6 basics).
+- Leader & Technical Official of the Cybersecurity Club at Tuwaiq Academy.
 
 3. Interests
-
-Application Security: Ensuring the project's architecture and data are secure.
-
-Frontend/UI Development: Designing highly interactive, user-friendly interfaces.
-
-Project Leadership: Coordinating team efforts and aligning technical tasks.
+- Application Security: Ensuring the project's architecture and data are secure.
+- Frontend/UI Development: Designing highly interactive, user-friendly interfaces.
+- Project Leadership: Coordinating team efforts and aligning technical tasks.
 
 4. Project Goals
-
-Build a secure, scalable, and professional platform.
-
-Master the integration of modern frontend designs with robust backend logic.
-
-Successfully collaborate with the team to deliver a standout portfolio project.
+- Build a secure, scalable, and professional platform.
+- Master the integration of modern frontend designs with robust backend logic.
+- Successfully collaborate with the team to deliver a standout portfolio project.
