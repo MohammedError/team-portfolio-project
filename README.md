@@ -102,10 +102,10 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 1 | High impact on the Arab tech ecosystem by centralizing knowledge and talent. |
 | Technical Alignment | 1 | Perfectly aligns with modern web development stacks and community-building goals. |
 | Scalability | 1 | Highly scalable through a subreddit-style "Community" architecture. |
-| Constraints | 0 | No significant external constraints preventing development. |
-| Risks | 0 | Minimal risk, as it iterates on two proven and successful social models. |
+| Constraints | 1 | No significant external constraints preventing development. |
+| Risks | 1 | Minimal risk, as it iterates on two proven and successful social models. |
 
-**Final Rank: 3.5 / 6**
+**Final Rank: 5.5 / 6**
 
 **Reason for Rejection:** The choice of the MVP was between this project and the Project-Based Educational Marketplace. We rejected this project because it lacks a "wow factor," which would make it a commercial struggle to attract investors.
 
@@ -138,8 +138,8 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 1 | High value in data generation and scientific understanding of AI-human interaction. |
 | Technical Alignment | 0 | Does not currently align with the primary technical stack or immediate project goals. |
 | Scalability | 0 | Potential challenges in maintaining the integrity of the experiment at a massive scale. |
-| Constraints | 0 | No external constraints currently limiting the conceptual stage. |
-| Risks | 1 | Risks are heigh, beside lack of resource, the security big challenges |
+| Constraints | 1 | No external constraints currently limiting the conceptual stage. |
+| Risks | 0 | Risks are heigh, beside lack of resource, the security big challenges |
 
 **Final Rank: 2 / 6**
 
@@ -175,10 +175,10 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 1 | Massive potential to revolutionize the retro-gaming scene and create a unique niche market. |
 | Technical Alignment | 0 | Requires specialized low-level C/C++ and Linux distribution expertise beyond standard web/backend stacks. |
 | Scalability | 1 | Highly scalable as a software distribution that can be installed on millions of existing devices. |
-| Constraints | 1 | Significant legal and licensing constraints regarding BIOS files, ROMs, and proprietary emulation cores. |
-| Risks | 1 | High risk of project abandonment due to complexity or potential legal challenges from IP holders. |
+| Constraints | 0 | Significant legal and licensing constraints regarding BIOS files, ROMs, and proprietary emulation cores. |
+| Risks | 0 | High risk of project abandonment due to complexity or potential legal challenges from IP holders. |
 
-**Final Rank: 4 / 6**
+**Final Rank: 2 / 6**
 
 **Reason for Rejection:** High risk of project abandonment due to complexity or potential legal challenges from IP holders.
 
@@ -211,8 +211,8 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 0 | While useful, the market is currently saturated with similar tools (e.g., Google Translate, DeepL), requiring a unique niche to stand out. |
 | Technical Alignment | 1 | Perfect alignment with current market demands for AI implementation and API-first architecture. |
 | Scalability | 1 | Cloud-native design allows for horizontal scaling or offloading processing to the client side. |
-| Constraints | 0 | No immediate external or legal constraints that hinder development. |
-| Risks | 1 | High technical risk regarding layout reconstruction and security vulnerabilities (malicious file uploads). |
+| Constraints | 1 | No immediate external or legal constraints that hinder development. |
+| Risks | 0 | High technical risk regarding layout reconstruction and security vulnerabilities (malicious file uploads). |
 
 **Final Rank: 4 / 6**
 
@@ -248,10 +248,10 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 1 | Disruptive potential in the personal assistant and digital companion markets. |
 | Technical Alignment | 0 | Requires advanced RAG (Retrieval-Augmented Generation) and custom state-machine logic beyond standard API calls. |
 | Scalability | 0 | High server costs and complexity in maintaining 24/7 active "living" states for thousands of users. |
-| Constraints | 1 | Significant ethical constraints regarding AI dependency and privacy of persistent memory. |
-| Risks | 1 | High risk of unpredictable behavior or "hallucinating" emotional states that could negatively affect users. |
+| Constraints | 0 | Significant ethical constraints regarding AI dependency and privacy of persistent memory. |
+| Risks | 0 | High risk of unpredictable behavior or "hallucinating" emotional states that could negatively affect users. |
 
-**Final Rank: 3 / 6**
+**Final Rank: 1 / 6**
 
 **Reason for Rejection:** High risk of unpredictable behavior or "hallucinating" emotional states that could negatively affect users.
 
@@ -286,10 +286,10 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 1 | High market demand for low-latency audio tools in the gaming and streaming industries. |
 | Technical Alignment | 0 | Departs from standard AI/ML workflows, requiring specialized knowledge in acoustics and real-time systems. |
 | Scalability | 0 | Performance optimization is hardware-dependent, making universal scaling across all device types complex. |
-| Constraints | 1 | Limited by the physical properties of human speech (Formants/Pitch) which are difficult to map mathematically without AI. |
-| Risks | 1 | Risk of failing to achieve "natural" sounding voices compared to the high-quality outputs of heavy AI models. |
+| Constraints | 0 | Limited by the physical properties of human speech (Formants/Pitch) which are difficult to map mathematically without AI. |
+| Risks | 0 | Risk of failing to achieve "natural" sounding voices compared to the high-quality outputs of heavy AI models. |
 
-**Final Rank: 3 / 6**
+**Final Rank: 1 / 6**
 
 **Reason for Rejection:** Risk of failing to achieve "natural" sounding voices compared to the high-quality outputs of heavy AI models.
 
@@ -324,10 +324,10 @@ The project has been analyzed according to the established project management cr
 | Potential Impact | 1 | Disruptive potential to redefine digital ethics and protect users from multi-billion dollar manipulation industries. |
 | Technical Alignment | 0 | Requires a unique blend of Psychology, UI/UX Analysis, and low-level OS/Browser engine modification. |
 | Scalability | 0 | Difficult to scale as dark patterns constantly evolve to bypass detection mechanisms. |
-| Constraints | 1 | Heavy opposition from major tech platforms whose business models rely on the very patterns this OS seeks to block. |
-| Risks | 1 | Risk of "false positives"—blocking legitimate UI elements and breaking essential web functionality. |
+| Constraints | 0 | Heavy opposition from major tech platforms whose business models rely on the very patterns this OS seeks to block. |
+| Risks | 0 | Risk of "false positives"—blocking legitimate UI elements and breaking essential web functionality. |
 
-**Final Rank: 3 / 6**
+**Final Rank: 1 / 6**
 
 **Reason for Rejection:** Risk of "false positives"—blocking legitimate UI elements and breaking essential web functionality.
 
@@ -402,8 +402,8 @@ The decision to move forward with this MVP was based on a weighted ranking of it
 | Potential Impact | 1 |
 | Technical Alignment | 1 |
 | Scalability | 1 |
-| Constraints | 0 |
-| Risks | 0 |
-| **Final Rank** | **4 / 6** |
+| Constraints | 1 |
+| Risks | 1 |
+| **Final Rank** | **6 / 6** |
 
 **Technical Advantage:** By utilizing AST analysis, the platform offers a unique competitive edge: it does not just check if code works; it checks if the code is well-written. This creates a standard of excellence that distinguishes our graduates and our creators' content from standard "low-friction" e-learning platforms.
