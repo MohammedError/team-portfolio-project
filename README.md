@@ -105,7 +105,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 0 | No significant external constraints preventing development. |
 | Risks | 0 | Minimal risk, as it iterates on two proven and successful social models. |
 
-**Final Rank: 3.5 / 4**
+**Final Rank: 3.5 / 6**
 
 **Reason for Rejection:** The choice of the MVP was between this project and the Project-Based Educational Marketplace. We rejected this project because it lacks a "wow factor," which would make it a commercial struggle to attract investors.
 
@@ -141,7 +141,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 0 | No external constraints currently limiting the conceptual stage. |
 | Risks | 1 | Risks are heigh, beside lack of resource, the security big challenges |
 
-**Final Rank: 1 / 6**
+**Final Rank: 2 / 6**
 
 **Reason for Rejection:** It doesn't fit our tech stack, and it needs more resources to maintain and has high-risk security challenges.
 
@@ -178,7 +178,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 1 | Significant legal and licensing constraints regarding BIOS files, ROMs, and proprietary emulation cores. |
 | Risks | 1 | High risk of project abandonment due to complexity or potential legal challenges from IP holders. |
 
-**Final Rank: 4 / 4**
+**Final Rank: 4 / 6**
 
 **Reason for Rejection:** High risk of project abandonment due to complexity or potential legal challenges from IP holders.
 
@@ -214,7 +214,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 0 | No immediate external or legal constraints that hinder development. |
 | Risks | 1 | High technical risk regarding layout reconstruction and security vulnerabilities (malicious file uploads). |
 
-**Final Rank: 4 / 4**
+**Final Rank: 4 / 6**
 
 **Reason for Rejection:** The market is full of similar solutions.
 
@@ -251,7 +251,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 1 | Significant ethical constraints regarding AI dependency and privacy of persistent memory. |
 | Risks | 1 | High risk of unpredictable behavior or "hallucinating" emotional states that could negatively affect users. |
 
-**Final Rank: 3 / 4**
+**Final Rank: 3 / 6**
 
 **Reason for Rejection:** High risk of unpredictable behavior or "hallucinating" emotional states that could negatively affect users.
 
@@ -289,7 +289,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 1 | Limited by the physical properties of human speech (Formants/Pitch) which are difficult to map mathematically without AI. |
 | Risks | 1 | Risk of failing to achieve "natural" sounding voices compared to the high-quality outputs of heavy AI models. |
 
-**Final Rank: 3 / 4**
+**Final Rank: 3 / 6**
 
 **Reason for Rejection:** Risk of failing to achieve "natural" sounding voices compared to the high-quality outputs of heavy AI models.
 
@@ -327,7 +327,7 @@ The project has been analyzed according to the established project management cr
 | Constraints | 1 | Heavy opposition from major tech platforms whose business models rely on the very patterns this OS seeks to block. |
 | Risks | 1 | Risk of "false positives"—blocking legitimate UI elements and breaking essential web functionality. |
 
-**Final Rank: 3 / 4**
+**Final Rank: 3 / 6**
 
 **Reason for Rejection:** Risk of "false positives"—blocking legitimate UI elements and breaking essential web functionality.
 
