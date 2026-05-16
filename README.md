@@ -402,6 +402,8 @@ The decision to move forward with this MVP was based on a weighted ranking of it
 | Potential Impact | 1 |
 | Technical Alignment | 1 |
 | Scalability | 1 |
-| **Final Rank** | **4 / 4** |
+| Constraints | 0 |
+| Risks | 0 |
+| **Final Rank** | **4 / 6** |
 
 **Technical Advantage:** By utilizing AST analysis, the platform offers a unique competitive edge: it does not just check if code works; it checks if the code is well-written. This creates a standard of excellence that distinguishes our graduates and our creators' content from standard "low-friction" e-learning platforms.
