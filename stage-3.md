@@ -56,7 +56,7 @@ As a Curriculum Designer, I want a page that displays my curricula so that I can
 
 ## System Architecture: High-level diagram:
 
-![System Architecture](System arch.png)
+![System Architecture](System_arch.png)
 
 
 ## ERD:
