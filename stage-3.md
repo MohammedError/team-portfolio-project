@@ -162,11 +162,13 @@ erDiagram
         datetime created_at
         datetime updated_at
     }
-
+```
 
 
 
 Classes:
+```mermaid
+
 classDiagram
 direction TB
 class User {
@@ -291,12 +293,13 @@ Task "1" *-- "0..*" TestCase : contains
 
 Enrollment "1" --> "0..*" TaskProgress : tracks
 Task "1" --> "0..*" TaskProgress : has
-
+```
 ## Sequence Diagrams:
 
 #### Use Case 1 — User Login
 
 A user authenticates with their credentials. On success the backend issues a JWT.
+```mermaid
 
 sequenceDiagram
 actor U as User
@@ -317,12 +320,13 @@ else Invalid credentials
     BE-->>FE: 401 Unauthorized
     FE-->>U: Show error message
 end
-
+```
 #### Use Case 2 — Create / Edit a Draft Curriculum & Publish
 
 A designer saves the curriculum as a draft, reopens it from "My Curriculums" to
 edit, and publishes it when ready. Content is structured as Sprints → Projects →
 Tasks.
+```mermaid
 
 sequenceDiagram
 actor U as Curriculum Designer
@@ -368,12 +372,13 @@ BE->>DB: Update status: published
 DB-->>BE: Updated
 BE-->>FE: 200 OK
 FE-->>U: Curriculum is now published
-
+```
 #### Use Case 3 — Check Code (Correction)
 
 A trainee submits C code for a task. The backend runs it in a Docker container
 against all test cases, returns the current result, and updates only the best
 score. The submitted code and detailed results are not stored.
+```mermaid
 
 sequenceDiagram
 actor U as Trainee
@@ -402,7 +407,7 @@ else Allowed
 end
 Note over BE,DB: Submitted code & detailed results are NOT stored
 FE-->>U: Display current correction result
-
+```
 # API Documentation
 
 ## 1. Overview
