@@ -61,106 +61,110 @@ As a Curriculum Designer, I want a page that displays my curricula so that I can
 
 ## ERD:
 
+```mermaid
 erDiagram
-USER ||--o{ CURRICULUM : creates
-USER ||--o{ ENROLLMENT : enrolls
-CURRICULUM ||--o{ ENROLLMENT : has
+    USER ||--o{ CURRICULUM : creates
+    USER ||--o{ ENROLLMENT : enrolls
+    CURRICULUM ||--o{ ENROLLMENT : has
 
-CURRICULUM ||--o{ SPRINT : contains
-SPRINT ||--o{ PROJECT : contains
-PROJECT ||--o{ TASK : contains
+    CURRICULUM ||--o{ SPRINT : contains
+    SPRINT ||--o{ PROJECT : contains
+    PROJECT ||--o{ TASK : contains
 
-TASK ||--o{ TEST_CASE : has
+    TASK ||--o{ TEST_CASE : has
 
-ENROLLMENT ||--o{ TASK_PROGRESS : tracks
-TASK ||--o{ TASK_PROGRESS : has
+    ENROLLMENT ||--o{ TASK_PROGRESS : tracks
+    TASK ||--o{ TASK_PROGRESS : has
 
-USER {
-    UUID id PK
-    string first_name
-    string last_name
-    string email
-    string password_hash
-    string role
-    datetime created_at
-    datetime updated_at
-}
+    USER {
+        UUID id PK
+        string first_name
+        string last_name
+        string email
+        string password_hash
+        string role
+        datetime created_at
+        datetime updated_at
+    }
 
-CURRICULUM {
-    UUID id PK
-    int creator_id FK
-    string title
-    text description
-    string status
-    datetime created_at
-    datetime updated_at
-}
+    CURRICULUM {
+        UUID id PK
+        UUID creator_id FK
+        string title
+        text description
+        string status
+        datetime created_at
+        datetime updated_at
+    }
 
-ENROLLMENT {
-    UUID id PK
-    int user_id FK
-    int curriculum_id FK
-    datetime started_at
-    string status
-    datetime created_at
-    datetime updated_at
-}
+    ENROLLMENT {
+        UUID id PK
+        UUID user_id FK
+        UUID curriculum_id FK
+        datetime started_at
+        string status
+        datetime created_at
+        datetime updated_at
+    }
 
-SPRINT {
-    UUID id PK
-    int curriculum_id FK
-    int order_index
-    int duration_days
-    datetime created_at
-    datetime updated_at
-}
+    SPRINT {
+        UUID id PK
+        UUID curriculum_id FK
+        int order_index
+        int duration_days
+        datetime created_at
+        datetime updated_at
+    }
 
-PROJECT {
-    UUID id PK
-    int sprint_id FK
-    string title
-    text description
-    int order_index
-    datetime created_at
-    datetime updated_at
-}
+    PROJECT {
+        UUID id PK
+        UUID sprint_id FK
+        string title
+        text description
+        int order_index
+        datetime created_at
+        datetime updated_at
+    }
 
-TASK {
-    UUID id PK
-    int project_id FK
-    string title
-    text description
-    int order_index
-    int points
-    boolean strict_compile_enabled
-    boolean memory_check_enabled
-    datetime created_at
-    datetime updated_at
-}
+    TASK {
+        UUID id PK
+        UUID project_id FK
+        string title
+        text description
+        int order_index
+        int points
+        boolean strict_compile_enabled
+        boolean memory_check_enabled
+        datetime created_at
+        datetime updated_at
+    }
 
-TEST_CASE {
-    UUID id PK
-    int task_id FK
-    text input_data
-    text expected_output
-    boolean is_hidden
-    int weight
-    int order_index
-    datetime created_at
-    datetime updated_at
-}
+    TEST_CASE {
+        UUID id PK
+        UUID task_id FK
+        text input_data
+        text expected_output
+        boolean is_hidden
+        int weight
+        int order_index
+        datetime created_at
+        datetime updated_at
+    }
 
-TASK_PROGRESS {
-    UUID id PK
-    int enrollment_id FK
-    int task_id FK
-    float best_score
-    string status
-    datetime completed_at
-    datetime last_checked_at
-    datetime created_at
-    datetime updated_at
-}
+    TASK_PROGRESS {
+        UUID id PK
+        UUID enrollment_id FK
+        UUID task_id FK
+        float best_score
+        string status
+        datetime completed_at
+        datetime last_checked_at
+        datetime created_at
+        datetime updated_at
+    }
+
+
+
 
 Classes:
 classDiagram
