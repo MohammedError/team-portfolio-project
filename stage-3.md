@@ -162,8 +162,8 @@ erDiagram
         datetime created_at
         datetime updated_at
     }
+}
 ```
-
 
 
 Classes:
