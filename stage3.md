@@ -55,7 +55,9 @@ As a trainee, I want to view a curriculum's details before adding it so that I c
 As a Curriculum Designer, I want a page that displays my curricula so that I can manage and track them easily.
 
 ## System Architecture: High-level diagram:
-System arch.png
+
+![System Architecture](System arch.png)
+
 
 ## ERD:
 
