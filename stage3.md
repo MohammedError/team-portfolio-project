@@ -2,7 +2,7 @@
 
 ## mockups:
 
-URL
+[URL](https://www.figma.com/design/X91sR5oVaaXp9ocPKGFFxn/SelfLab-Ui?node-id=0-1&t=2ESLjfp6OA7d938L-1)
 
 ## User Management:
 
@@ -55,7 +55,7 @@ As a trainee, I want to view a curriculum's details before adding it so that I c
 As a Curriculum Designer, I want a page that displays my curricula so that I can manage and track them easily.
 
 ## System Architecture: High-level diagram:
-
+System arch.png
 
 ## ERD:
 
