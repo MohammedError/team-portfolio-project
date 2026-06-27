@@ -162,7 +162,6 @@ erDiagram
         datetime created_at
         datetime updated_at
     }
-}
 ```
 
 
@@ -293,7 +292,6 @@ Task "1" *-- "0..*" TestCase : contains
 
 Enrollment "1" --> "0..*" TaskProgress : tracks
 Task "1" --> "0..*" TaskProgress : has
-}
 ```
 ## Sequence Diagrams:
 
@@ -321,7 +319,6 @@ else Invalid credentials
     BE-->>FE: 401 Unauthorized
     FE-->>U: Show error message
 end
-}
 ```
 #### Use Case 2 — Create / Edit a Draft Curriculum & Publish
 
@@ -374,7 +371,6 @@ BE->>DB: Update status: published
 DB-->>BE: Updated
 BE-->>FE: 200 OK
 FE-->>U: Curriculum is now published
-}
 ```
 #### Use Case 3 — Check Code (Correction)
 
@@ -410,7 +406,6 @@ else Allowed
 end
 Note over BE,DB: Submitted code & detailed results are NOT stored
 FE-->>U: Display current correction result
-}
 ```
 # API Documentation
 
