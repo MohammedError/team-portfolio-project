@@ -93,7 +93,8 @@ Complete the final MVP features and prepare the system for the initial release.
 - Student pages.
 
 ### Should Have
-- OAuth authentication.
+- Bug fixes and system stability improvements.
+- Improve consistency across user interfaces.
 
 ### Could Have
 - Additional UI and UX improvements.
@@ -108,10 +109,10 @@ Complete the final MVP features and prepare the system for the initial release.
 | Yazeed Al-Juhani | Backend – Path Browser and Pagination |
 | Badr Al-Shaya | Frontend – Path Browser |
 | Mohammed Al-Oufi | Frontend – Student pages after completing Path Builder improvements |
-| Mohammed Al-Dosari | assisting team members when additional support is needed |
+| Mohammed Al-Dosari | Assisting team members when additional support is needed |
 
 ## Dependencies
 - Student pages depend on the completion of the backend APIs.
-- OAuth integration depends on the completion of the User Management feature.
+- Final improvements depend on completing the core MVP features.
 
 **Duration:** 1 Week
